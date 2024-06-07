@@ -1,1 +1,5 @@
 /"top secret"
+*.db
+*.log
+/target
+/bin
